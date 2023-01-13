@@ -129,9 +129,9 @@
     <category term="Note" scheme="http://www.neily.top/categories/Note/"/>
     
     
-    <category term="英语" scheme="http://www.neily.top/tags/%E8%8B%B1%E8%AF%AD/"/>
-    
     <category term="Note" scheme="http://www.neily.top/tags/Note/"/>
+    
+    <category term="英语" scheme="http://www.neily.top/tags/%E8%8B%B1%E8%AF%AD/"/>
     
   </entry>
   
@@ -152,9 +152,9 @@
     <category term="Note" scheme="http://www.neily.top/categories/Note/"/>
     
     
-    <category term="Markdown" scheme="http://www.neily.top/tags/Markdown/"/>
-    
     <category term="Note" scheme="http://www.neily.top/tags/Note/"/>
+    
+    <category term="Markdown" scheme="http://www.neily.top/tags/Markdown/"/>
     
   </entry>
   
