@@ -1,0 +1,1 @@
+"use strict";function iconFont(e){let i=(e=e.join(" ").split(","))[0],t=e[1]?e[1]:1;return`<svg class="icon" style="width:${t}em; height:${t}em" aria-hidden="true"><use xlink:href="#${i}"></use></svg>`}
