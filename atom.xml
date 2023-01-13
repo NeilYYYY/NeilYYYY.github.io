@@ -152,9 +152,9 @@
     <category term="Note" scheme="http://www.neily.top/categories/Note/"/>
     
     
-    <category term="Note" scheme="http://www.neily.top/tags/Note/"/>
-    
     <category term="Markdown" scheme="http://www.neily.top/tags/Markdown/"/>
+    
+    <category term="Note" scheme="http://www.neily.top/tags/Note/"/>
     
   </entry>
   
@@ -175,9 +175,9 @@
     <category term="HomeWork" scheme="http://www.neily.top/categories/HomeWork/"/>
     
     
-    <category term="HomeWork" scheme="http://www.neily.top/tags/HomeWork/"/>
-    
     <category term="语文" scheme="http://www.neily.top/tags/%E8%AF%AD%E6%96%87/"/>
+    
+    <category term="HomeWork" scheme="http://www.neily.top/tags/HomeWork/"/>
     
   </entry>
   
