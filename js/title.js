@@ -1,1 +1,0 @@
-var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="诶？跑哪里去了~",clearTimeout(titleTime)):(document.title="诶！找到了！",titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));
