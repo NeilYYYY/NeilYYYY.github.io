@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>https://www.neily.top/tags/HomeWork/</loc>
-    <lastmod>2023-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.neily.top/tags/%E8%AF%AD%E6%96%87/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -196,7 +189,7 @@
   </url>
   
   <url>
-    <loc>https://www.neily.top/tags/Note/</loc>
+    <loc>https://www.neily.top/tags/HomeWork/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -210,6 +203,13 @@
   </url>
   
   <url>
+    <loc>https://www.neily.top/tags/Hexo/</loc>
+    <lastmod>2023-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.neily.top/tags/OI/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,14 +217,14 @@
   </url>
   
   <url>
-    <loc>https://www.neily.top/tags/Butterfly/</loc>
+    <loc>https://www.neily.top/tags/Note/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.neily.top/tags/Hexo/</loc>
+    <loc>https://www.neily.top/tags/Butterfly/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,6 +240,13 @@
 
   
   <url>
+    <loc>https://www.neily.top/categories/%E4%BD%9C%E6%96%87/</loc>
+    <lastmod>2023-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.neily.top/categories/HomeWork/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.neily.top/categories/%E4%BD%9C%E6%96%87/</loc>
+    <loc>https://www.neily.top/categories/Hexo/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -262,13 +269,6 @@
   
   <url>
     <loc>https://www.neily.top/categories/Note/Butterfly/</loc>
-    <lastmod>2023-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.neily.top/categories/Hexo/</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
