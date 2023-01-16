@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Cascadia Mono";
+    src: url("CascadiaMono.eot"); /* IE9 */
+    src: url("CascadiaMono.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("CascadiaMono.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("CascadiaMono.woff") format("woff"), /* chrome, firefox */
+    url("CascadiaMono.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("CascadiaMono.svg#Cascadia Mono") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
