@@ -1,1 +1,60 @@
-@font-face{font-family:TTQ;font-display:swap;src:url(/fonts/甜甜圈海报字体.ttf) format("truetype")}@font-face{font-family:TZZAW;font-display:swap;src:url(/fonts/筑紫A丸by宁静之雨.ttf) format("truetype")}@font-face{font-family:XWWK;font-display:swap;src:url(/fonts/霞鹜文楷.ttf) format("truetype")}@font-face{font-family:Consolas;font-display:swap;src:url(/fonts/Consolas.ttf) format("truetype")}@font-face{font-family:CascadiaCode;font-display:swap;src:url(/fonts/CascadiaCode.ttf) format("truetype")}@font-face{font-family:CascadiaCodeItalic;font-display:swap;src:url(/fonts/CascadiaCodeItalic.ttf) format("truetype")}@font-face{font-family:CascadiaMono;font-display:swap;src:url(/fonts/CascadiaMono.ttf) format("truetype")}@font-face{font-family:HYTangMeiRen55W;font-display:swap;src:url(/fonts/HYTangMeiRen55W.ttf) format("truetype")}@font-face{font-family:ZhuZiAWan2;font-display:swap;src:url(/fonts/ZhuZiAWan2.ttf) format("truetype")}@font-face{font-family:ZhuZiAYuanJWD;font-display:swap;src:url(/fonts/ZhuZiAYuanJWD.ttf) format("truetype")}
+@font-face {
+    font-family: 'TTQ';
+    font-display: swap;
+    src: url('/fonts/甜甜圈海报字体.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'TZZAW';
+    font-display: swap;
+    src: url('/fonts/筑紫A丸by宁静之雨.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'XWWK';
+    font-display: swap;
+    src: url('/fonts/霞鹜文楷.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Consolas';
+    font-display: swap;
+    src: url('/fonts/Consolas.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: CascadiaCode;
+    font-display: swap;
+    src: url('/fonts/CascadiaCode.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: CascadiaCodeItalic;
+    font-display: swap;
+    src: url('/fonts/CascadiaCodeItalic.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: CascadiaMono;
+    font-display: swap;
+    src: url('/fonts/CascadiaMono.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: HYTangMeiRen55W;
+    font-display: swap;
+    src: url('/fonts/HYTangMeiRen55W.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: ZhuZiAWan2;
+    font-display: swap;
+    src: url('/fonts/ZhuZiAWan2.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: ZhuZiAYuanJWD;
+    font-display: swap;
+    src: url('/fonts/ZhuZiAYuanJWD.ttf') format("truetype");
+}
+

@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>https://www.neily.top/tags/HomeWork/</loc>
-    <lastmod>2023-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.neily.top/tags/%E8%AF%AD%E6%96%87/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -196,14 +189,14 @@
   </url>
   
   <url>
-    <loc>https://www.neily.top/tags/Markdown/</loc>
+    <loc>https://www.neily.top/tags/HomeWork/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.neily.top/tags/Hexo/</loc>
+    <loc>https://www.neily.top/tags/Markdown/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -218,6 +211,13 @@
   
   <url>
     <loc>https://www.neily.top/tags/Butterfly/</loc>
+    <lastmod>2023-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.neily.top/tags/Hexo/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,13 +240,6 @@
 
   
   <url>
-    <loc>https://www.neily.top/categories/HomeWork/</loc>
-    <lastmod>2023-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.neily.top/categories/%E4%BD%9C%E6%96%87/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://www.neily.top/categories/Hexo/</loc>
+    <loc>https://www.neily.top/categories/HomeWork/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -262,6 +255,13 @@
   
   <url>
     <loc>https://www.neily.top/categories/Note/</loc>
+    <lastmod>2023-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.neily.top/categories/Hexo/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
