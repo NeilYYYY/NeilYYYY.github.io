@@ -1,1 +1,66 @@
-@font-face{font-family:TTQ;font-display:swap;src:url(https://cdn.neily.top/fonts/TianTianQuan.woff2) format("woff2")}@font-face{font-family:TZZAW;font-display:swap;src:url(https://cdn.neily.top/fonts/ZhuZiAWan.woff2) format("woff2")}@font-face{font-family:XWWK;font-display:swap;src:url(https://cdn.neily.top/fonts/XiaWuWenKai.woff2) format("woff2")}@font-face{font-family:Consolas;font-display:swap;src:url(https://cdn.neily.top/fonts/Consolas.woff2) format("woff2")}@font-face{font-family:CascadiaCode;font-display:swap;src:url(https://cdn.neily.top/fonts/CascadiaCode.woff2) format("woff2")}@font-face{font-family:CascadiaCodeItalic;font-display:swap;src:url(https://cdn.neily.top/fonts/CascadiaCodeItalic.woff2) format("woff2")}@font-face{font-family:CascadiaMono;font-display:swap;src:url(https://cdn.neily.top/fonts/CascadiaMono.woff2) format("woff2")}@font-face{font-family:HYTangMeiRen55W;font-display:swap;src:url(https://cdn.neily.top/fonts/HYTangMeiRen55W.woff2) format("woff2")}@font-face{font-family:ZhuZiAWan2;font-display:swap;src:url(https://cdn.neily.top/fonts/ZhuZiAWan2.woff2) format("woff2")}@font-face{font-family:ZhuZiAYuanJWD;font-display:swap;src:url(https://cdn.neily.top/fonts/ZhuZiAYuanJWD.woff2) format("woff2")}@font-face{font-family:PingFang;font-display:swap;src:url(https://cdn.neily.top/fonts/PingFang.woff2) format("woff2")}
+@font-face {
+    font-family: 'TTQ';
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/TianTianQuan.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'TZZAW';
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/ZhuZiAWan.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'XWWK';
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/XiaWuWenKai.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'Consolas';
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/Consolas.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: CascadiaCode;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/CascadiaCode.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: CascadiaCodeItalic;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/CascadiaCodeItalic.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: CascadiaMono;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/CascadiaMono.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: HYTangMeiRen55W;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/HYTangMeiRen55W.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: ZhuZiAWan2;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/ZhuZiAWan2.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: ZhuZiAYuanJWD;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/ZhuZiAYuanJWD.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: PingFang;
+    font-display: swap;
+    src: url('https://cdn.neily.top/fonts/PingFang.woff2') format("woff2");
+}
+
