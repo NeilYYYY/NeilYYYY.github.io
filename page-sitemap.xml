@@ -10,8 +10,53 @@
     
     
     <url>
+        <loc>https://www.neily.top/air-conditioner/</loc>
+        <lastmod>2023-02-17T12:06:03.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.neily.top/about/</loc>
+        <lastmod>2023-01-18T15:19:10.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://www.neily.top/search/</loc>
         <lastmod>2023-01-13T04:20:21.284Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.neily.top/tags/</loc>
+        <lastmod>2023-01-08T14:15:09.599Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.neily.top/categories/</loc>
+        <lastmod>2023-01-08T14:13:43.560Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.neily.top/link/</loc>
+        <lastmod>2022-12-15T13:04:22.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
