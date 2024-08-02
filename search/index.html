@@ -1,0 +1,121 @@
+---
+comments: false
+aside: false
+top_img: false
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>让我帮你Bing一下 | Let Me Bing That For You</title>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <script nonce="2f73f97a-a4ba-4ac1-af3d-3a677cfb8628">
+    (function(w, d) {
+        !function(f, g, h, i) {
+            f[h] = f[h] || {};
+            f[h].executed = [];
+            f.zaraz = {
+                deferred: [],
+                listeners: []
+            };
+            f.zaraz.q = [];
+            f.zaraz._f = function(j) {
+                return function() {
+                    var k = Array.prototype.slice.call(arguments);
+                    f.zaraz.q.push({
+                        m: j,
+                        a: k
+                    })
+                }
+            };
+            for (const l of ["track", "set", "ecommerce", "debug"])
+                f.zaraz[l] = f.zaraz._f(l);
+            f.zaraz.init = () => {
+                var m = g.getElementsByTagName(i)[0],
+                    n = g.createElement(i),
+                    o = g.getElementsByTagName("title")[0];
+                o && (f[h].t = g.getElementsByTagName("title")[0].text);
+                f[h].x = Math.random();
+                f[h].w = f.screen.width;
+                f[h].h = f.screen.height;
+                f[h].j = f.innerHeight;
+                f[h].e = f.innerWidth;
+                f[h].l = f.location.href;
+                f[h].r = g.referrer;
+                f[h].k = f.screen.colorDepth;
+                f[h].n = g.characterSet;
+                f[h].o = (new Date).getTimezoneOffset();
+                if (f.dataLayer)
+                    for (const s of Object.entries(Object.entries(dataLayer).reduce(((t, u) => ({
+                        ...t[1],
+                        ...u[1]
+                    })))))
+                        zaraz.set(s[0], s[1], {
+                            scope: "page"
+                        });
+                f[h].q = [];
+                for (; f.zaraz.q.length;) {
+                    const v = f.zaraz.q.shift();
+                    f[h].q.push(v)
+                }
+                n.defer = !0;
+                for (const w of [localStorage, sessionStorage])
+                    Object.keys(w || {}).filter((y => y.startsWith("_zaraz_"))).forEach((x => {
+                        try {
+                            f[h]["z_" + x.slice(7)] = JSON.parse(w.getItem(x))
+                        } catch {
+                            f[h]["z_" + x.slice(7)] = w.getItem(x)
+                        }
+                    }));
+                n.referrerPolicy = "origin";
+                n.src = "/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(f[h])));
+                m.parentNode.insertBefore(n, m)
+            };
+            ["complete", "interactive"].includes(g.readyState) ? zaraz.init() : f.addEventListener("DOMContentLoaded", zaraz.init)
+        }(w, d, "zarazData", "script");
+        zaraz._c = cb => {
+            const {event: cc, ...cd} = cb;
+            zaraz.track(cc, {
+                ...cd,
+                __zarazClientEvent: !0
+            })
+        };
+        zaraz._syncedAttributes = ["altKey", "clientX", "clientY", "pageX", "pageY", "button"];
+    })(window, document);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div>
+            <h1 class="title">
+                让我帮你 
+                <img src="https://cdn.neily.top/images/Bing.webp" class="bing-logo">
+                 一下
+            </h1>
+            <div class="mk-search-form">
+                <input type="text" id="kw">
+                <button id="search" class="anim-trans">搜索</button>
+            </div>
+        </div>
+        <div id="instructions">输入一个问题，然后点击搜索</div>
+        <div id="output-box">
+            <input type="text" id="output-link" readonly="readonly">
+            <div>
+                <button class="btn btn-copy anim-trans" data-clipboard-target="#output-link">复制</button>
+                <button class="btn anim-trans" id="btn-preview">预览</button>
+            </div>
+        </div>
+    </div>
+    <img src="https://cdn.neily.top/images/arrow.webp" id="arrow">
+    <script src="/js/clipboard.js"></script>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/lmbtfy.js"></script>
+</body>
+</html>
